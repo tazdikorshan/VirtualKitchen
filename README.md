@@ -54,3 +54,4 @@ Hit the link on the terminal and you are good to go!!
 # Notes
 - Make sure the .env file is configured with the correct database connection.
 - Run composer install before migrations and seeders because your clone will be fresh clone.
+- The Recipe Seeder file is on the database folder
