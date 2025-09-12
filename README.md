@@ -1,19 +1,19 @@
 
 # Virtual Kitchen
 
-A website that let users to browse, filter and interact with recipes, using a simple account creation system. After creating an account and logging in, users can add and edit food recipes.
+A website that lets users browse, filter and interact with recipes, using a simple account creation system. After creating an account and logging in, users can add and edit food recipes.
 # Lessons Learned
-- How Laravel Framework works.
-- How to actually implement a MVC (e.g., model/view/controller) system.
+- How the Laravel Framework works.
+- How to actually implement an MVC (e.g., model/view/controller) system.
 - How to configure the Blade files.
-- How to connect Database to the website.
+- How to connect the Database to the website.
 
 
 
 
 ## For Testing Out
 
-First XAMPP must be on your device (This is a open-source software package that lets you set up a local web server on your computer for development and testing).
+Firstly, XAMPP must be on your device (This is an open-source software package that lets you set up a local web server on your computer for development and testing).
 
 Clone the project first
 
@@ -53,5 +53,5 @@ Hit the link on the terminal and you are good to go!!
 
 # Notes
 - Make sure the .env file is configured with the correct database connection.
-- Run composer install before migrations and seeders because your clone will be fresh clone.
-- The Recipe Seeder file is on the database folder
+- Run composer install before migrations and seeders because your clone will be a fresh clone.
+- The Recipe Seeder file is in the database folder.
