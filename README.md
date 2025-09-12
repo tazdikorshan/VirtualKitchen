@@ -18,7 +18,7 @@ First XAMPP must be on your device (This is a open-source software package that 
 Clone the project first
 
 ```bash
-  git clone https://github.com/tazdikorshan/Virtual-Kitchen
+git clone https://github.com/tazdikorshan/Virtual-Kitchen
 ```
 
 Change database values to your liking (I am using MySQL):
